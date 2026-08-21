@@ -27,3 +27,4 @@ jobs:
         env:
           PRIVATE_KEY: ${{ secrets.PRIVATE_KEY }}
           RPC_URL: ${{ secrets.RPC_URL }}
+          [![Restore Footprint of Token Contracts](https://github.com/tano661/token-list/actions/workflows/restore-footprint-of-contracts.yml/badge.svg)](https://github.com/tano661/token-list/actions/workflows/restore-footprint-of-contracts.yml)
